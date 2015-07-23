@@ -1,7 +1,7 @@
 # php-multifile-download
 PHP based multiple files download from URL class 
 
-Use this class to download multiple files from remote URLs to a directory, in a single request. The class uses CURL, so make sure it is installed
+Use this class to download multiple files from remote URLs to a directory, in a single request. The class uses cURL, so make sure it is installed
 
 ### Usage
 Include Class
